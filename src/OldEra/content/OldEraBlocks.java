@@ -177,7 +177,7 @@ public class OldEraBlocks implements ContentList {
 				Items.silicon, 600,
 				Items.plastanium, 200,
 				Items.surgeAlloy, 100,
-				OldEraBlocks.diamondAlloy, 10
+				OldEraItems.diamondAlloy, 10
 			));
 			localizedName = "Advanced Projector";
 			consumes.power(10f);
