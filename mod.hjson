@@ -1,23 +1,23 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: Old Era Revival (Java)
 
 #the internal name of your mod
-name: "example-java-mod"
+name: OldEraJava
 
 #your name
-author: "You"
+author: ExplerHD, 12three7
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: oldera.OldEra
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: A mindustry mods that added maybe lot of content.
 
 #the mod version
 version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: 129
+minGameVersion: 135
 
 #this is a java mod
 java: true
