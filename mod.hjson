@@ -8,7 +8,7 @@ name: OldEraJava
 author: ExplerHD, 12three7
 
 #the fully qualified main class of the mod
-main: oldera.OldEra
+main: OldEra.OldEra
 
 #the mod description as seen in the mod dialog
 description: A mindustry mods that added maybe lot of content.
