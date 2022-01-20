@@ -8,7 +8,7 @@ public static OldEraItems implements ContentList {
 	public static Item
 	
 	// itemList
-	metaglassShard, denseAlloy, diamondAlloy
+	metaglassShard, denseAlloy, diamondAlloy;
 
 	@Override
 	public void load(){
