@@ -101,7 +101,7 @@ public class OldEraBlocks implements ContentList {
 				new ItemStack(Items.thorium, 2),
 				new ItemStack(Items.surgeAlloy, 1),
 				new ItemStack(Items.silicon, 2)
-			));
+			);
 			consumes.power(4f);
 			outputItem = new ItemStack(OldEraItems.diamondAlloy, 1);
 		}};
