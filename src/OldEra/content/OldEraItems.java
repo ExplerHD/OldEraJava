@@ -4,7 +4,7 @@ import arc.graphics.Color;
 import mindustry.ctype.ContentList;
 import mindustry.type.Item;
 
-public static OldEraItems implements ContentList {
+public class OldEraItems implements ContentList {
 	public static Item
 	
 	// itemList
